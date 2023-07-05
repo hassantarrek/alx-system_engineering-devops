@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --format=commas --group-directories-first --sort=version
+ls -a --format=commas --group-directories-first --classify
