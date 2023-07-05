@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a --format=commas --group-directories-first --sort=numbers
