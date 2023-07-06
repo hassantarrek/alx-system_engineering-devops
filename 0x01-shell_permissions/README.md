@@ -1,0 +1,1 @@
+this folder will have all the scripts for the shell permissions project
