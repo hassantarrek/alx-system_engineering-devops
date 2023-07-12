@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "%x/n" $DECIMAL
+11;rgb:0000/0000/0000#!/bin/bash
+printf "%x" $DECIMAL
